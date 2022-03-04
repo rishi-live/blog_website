@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "restful api for blog website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tech",
+    "stack",
+    "Node.js",
+    "Express.js",
+    "Mongo",
+    "db"
+  ],
+  "author": "Rishi",
+  "license": "ISC"
+}
