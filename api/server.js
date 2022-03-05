@@ -54,7 +54,7 @@ app.use("/api/posts", require("./routes/posts"));
 app.use("/api/categories", require("./routes/categories"));
 
 app.use("/uploads", express.static("./uploads"));
-const PORT = process.env.PORT || 7007;
+const PORT = process.env.PORT || 7009;
 
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
